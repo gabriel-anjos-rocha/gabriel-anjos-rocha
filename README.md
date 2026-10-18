@@ -24,3 +24,7 @@ Projeto em grupo de Trabalho Interdisciplinar II (PUC Minas): uma aplicação we
 **Minha parte:** o módulo de cadastro de produtos, com formulário responsivo, tema escuro, upload de imagens com prévia e CRUD completo (criar, listar, editar e excluir) integrado ao JSON Server.
 
 *HTML, CSS, JavaScript e JSON Server*
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--anjos--rocha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-anjos-rocha)
