@@ -21,7 +21,9 @@ Site para acompanhar uma coleção de cartas Pokémon TCG: navegue pelos sets, m
 ### Topdeck · vitrine digital para lojistas de colecionáveis *(em andamento)*
 Projeto em grupo de Trabalho Interdisciplinar II (PUC Minas): uma aplicação web para microempreendedores do setor de colecionáveis, com catálogo, carrinho e painel de gestão de pedidos e estoque.
 
-**Minha parte:** o módulo de cadastro de produtos, com formulário responsivo, tema escuro, upload de imagens com prévia e CRUD completo (criar, listar, editar e excluir) integrado ao JSON Server.
+**Minha parte:**
+- **Cadastro de produtos** (painel do vendedor): formulário responsivo, tema escuro, upload de imagens com prévia e CRUD completo (criar, listar, editar e excluir) integrado ao JSON Server.
+- **Vitrine de produtos** (visão do cliente) *(em desenvolvimento)*: catálogo em grid responsivo com busca por nome em tempo real, filtro por tipo e detalhes de cada produto em modal.
 
 *HTML, CSS, JavaScript e JSON Server*
 
