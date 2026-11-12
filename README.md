@@ -23,7 +23,9 @@ Projeto em grupo de Trabalho Interdisciplinar II (PUC Minas): uma aplicação we
 
 **Minha parte:**
 - **Cadastro de produtos** (painel do vendedor): formulário responsivo, tema escuro, upload de imagens com prévia e CRUD completo (criar, listar, editar e excluir) integrado ao JSON Server.
-- **Vitrine de produtos** (visão do cliente) *(em desenvolvimento)*: catálogo em grid responsivo com busca por nome em tempo real, filtro por tipo e detalhes de cada produto em modal.
+- **Vitrine de produtos** (visão do cliente): catálogo em grid responsivo com busca em tempo real, filtros, detalhes em modal e adição ao carrinho.
+- **Home page pública**: banner, destaques e últimos produtos carregados da API (com estados de carregando, vazio e erro), rodapé e Lighthouse 100 em acessibilidade e SEO.
+- **Navegação do site**: header público e painel do vendedor compartilhados entre as páginas, modo escuro persistente, menu mobile, breadcrumb e página 404.
 
 *HTML, CSS, JavaScript e JSON Server*
 
